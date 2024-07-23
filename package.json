@@ -1,0 +1,29 @@
+{
+  "name": "react-transcript-sync",
+  "version": "1.0.0",
+  "description": "Sync text with audio",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.24.8",
+    "@babel/core": "^7.24.9",
+    "@babel/preset-env": "^7.24.8",
+    "@babel/preset-react": "^7.24.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "keywords": [
+    "transcript",
+    "sync",
+    "react",
+    "npm"
+  ],
+  "author": "Dinuda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dinuda/react-transcript-sync/issues"
+  },
+  "homepage": "https://github.com/Dinuda/react-transcript-sync#readme"
+}
